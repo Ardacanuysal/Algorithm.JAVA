@@ -1,3 +1,3 @@
 <br />
 <div align="center">
-  <h1 align="center">:earth_africa:	:coffee: ALGORITHM W\JAVA :coffee: </h1>
+  <h1 align="center">	:coffee: ALGORITHM W\JAVA :coffee: </h1>
