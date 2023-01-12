@@ -1,3 +1,3 @@
 <br />
 <div align="center">
-  <h1 align="center">:earth_africa:	Calendar pack :earth_africa: </h1>
+  <h1 align="center">:earth_africa:	:coffee: ALGORITHM W\JAVA :coffee: </h1>
