@@ -1,6 +1,6 @@
 package DiziToplama1;
 
-import java.util.Scanner;
+import java.util.Scanner;//@ author Arda Can UYSAL
 
 public class DiziToplama {
 

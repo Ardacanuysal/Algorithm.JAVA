@@ -1,4 +1,4 @@
-package DiziKucukBuyukBulma;
+package DiziKucukBuyukBulma;//@ author Arda Can UYSAL
     /*
     0-100 arasında rasgele sayılardan oluşan 20 elemanlı bir dizi oluşturunuz. Bu dizinin;
     a)	En küçük elemanını,

@@ -1,4 +1,4 @@
-package Captha;
+package Captha;//@ author Arda Can UYSAL
 
 import java.util.ArrayList;
 import java.util.List;

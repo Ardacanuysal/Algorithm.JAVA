@@ -1,5 +1,5 @@
 package Dizi;
-import java.util.Scanner;
+import java.util.Scanner;//@ author Arda Can UYSAL
 
 public class ilkSonOrtalama {
         public static void main(String[] args) {

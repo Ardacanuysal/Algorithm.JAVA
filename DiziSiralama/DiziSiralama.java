@@ -4,7 +4,7 @@ package DiziSiralama;
 küçükten büyüğe doğru sıralayan programın JAVA kodunu yazınız.
 (Hazır fonksiyon kullanılmayacaktır.)
  */
-import java.util.Arrays;
+import java.util.Arrays;//@ author Arda Can UYSAL
 
 public class DiziSiralama {
         public static void main(String[] args) {

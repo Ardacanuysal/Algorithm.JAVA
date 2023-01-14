@@ -1,4 +1,4 @@
-package CarpimTablosu;
+package CarpimTablosu;//@ author Arda Can UYSAL
 
 public class CarpimTablosu {
 

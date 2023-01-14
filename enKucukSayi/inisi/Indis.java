@@ -1,4 +1,4 @@
-package enKucukSayi.inisi;
+package enKucukSayi.inisi;//@ author Arda Can UYSAL
 
 public class Indis {
 

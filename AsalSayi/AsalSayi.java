@@ -1,4 +1,4 @@
-package AsalSayi;
+package AsalSayi;//@ author Arda Can UYSAL
 
 import java.util.Scanner;
 

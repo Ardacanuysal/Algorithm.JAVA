@@ -1,4 +1,4 @@
-package DiziToplama2;
+package DiziToplama2;//@ author Arda Can UYSAL
 
 public class DiziToplama {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package DiziOrtalama;
+package DiziOrtalama;//@ author Arda Can UYSAL
 /*
 0-50 arasında rasgele sayılardan oluşan 10 elemanlı bir dizinin elemanlarının ortalamasından
 küçük ve büyük olan elemanların sayısını bulan programın JAVA kodunu yazınız.

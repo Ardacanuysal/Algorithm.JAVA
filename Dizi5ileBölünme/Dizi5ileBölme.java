@@ -1,4 +1,4 @@
-package Dizi5ileBölünme;
+package Dizi5ileBölünme;//@ author Arda Can UYSAL
 
 /*
 0-50 arasında rasgele sayılardan oluşan 25 eleman bir dizinin 5’e tam bölünebilen

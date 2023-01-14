@@ -1,4 +1,4 @@
-package DiziTekCiftAyirma;
+package DiziTekCiftAyirma;//@ author Arda Can UYSAL
 /*
 0-100 arasında rasgele sayılardan oluşan 10 elemanlı bir dizedeki tek elemanları bir alt diziye,
 çift elemanları ise başka bir alt diziye aktaran programın JAVA kodunu yazınız.
